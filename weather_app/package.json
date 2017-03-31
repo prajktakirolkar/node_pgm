@@ -1,0 +1,17 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "check weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prajkta",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^1.1.1",
+    "geoip-lite": "^1.2.0",
+    "querystring": "^0.2.0",
+    "util": "^0.10.3"
+  }
+}
